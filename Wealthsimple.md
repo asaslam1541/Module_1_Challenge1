@@ -55,8 +55,6 @@ Wealthsimple offers a variety of digital features. Customers can access accounts
 
 Through an analysis of major robo-advisory firms, Wealthsimple has an opportunity to use its strengths to its advantage. Some of the prominent names in this sector include Vangaurd, Schwabe, Betterment, Wealthfront, Questwealth and Empower.
 
-
-
 - **Asset Under Management:** Vanguard Digital Advisor leads the pack with the highest AUM - USD 140B, followed by Schwab Intelligent Portfolios - USD 70B. Wealthsimple, despite its vast client base, has a lower AUM compared to some of its competitors.
 
 **Client Base:** Wealthsimple boasts a significant client base, indicating its widespread adoption and trust among users.
@@ -67,7 +65,7 @@ Through an analysis of major robo-advisory firms, Wealthsimple has an opportunit
 
 - **Unique Features:** Each platform offers unique features catering to different segments of the market. For instance, Empower targets high-net-worth individuals, while Wealthsimple provides a diverse range of services, including banking.
 
-Each robo-advisor has its strengths and target audience, and Wealthsimple's broad client base make it a strong contender in the market. Therefore, to better use its strength Wealthsimple can expand its services to gain higher returns from its large client base.
+Each robo-advisor has its strengths and target audience, and Wealthsimple's broad client base makes it a strong contender in the market. Therefore, to better use its strength Wealthsimple can expand its services to gain higher returns from its large client base.
 
 ### Banking Service
 
